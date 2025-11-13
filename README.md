@@ -32,5 +32,7 @@ REM 设置输入法为中文
 im-select.exe zh
 ```
 
+# 下载
 
+https://github.com/EShuoTan/im-select/releases/latest
 
